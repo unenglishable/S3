@@ -3,7 +3,8 @@
     "TickTick": {
       "URL": "https://github.com/kristopolous/TickTick",
       "description": "JSON in your Bash scripts"
-    }
+    },
+    "JSON.sh": "https://github.com/dominictarr/JSON.sh"
   },
   "past": {
     "2015年5月30日": {

@@ -1,6 +1,9 @@
 {
   "current": {
-    "TickTick": "https://github.com/kristopolous/TickTick"
+    "TickTick": {
+      "URL": "https://github.com/kristopolous/TickTick",
+      "description": "JSON in your Bash scripts"
+    }
   },
   "past": {
     "2015年5月30日": {

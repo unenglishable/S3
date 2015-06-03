@@ -1,5 +1,13 @@
 #files info
 
+## README.md
+
+Well, what did you expect?  It's a README duh...
+
+## INFO.md
+
+`this` file.  Explains what the files in this directory are for.
+
 ## aRBitrator.rb
 
 Used to pick the order for S^3...

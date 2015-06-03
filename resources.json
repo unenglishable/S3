@@ -1,5 +1,13 @@
 {
   "current": {
     "TickTick": "https://github.com/kristopolous/TickTick"
+  },
+  "past": {
+    "2015年5月30日": {
+      "KanBan!!!": "https://kanbanflow.com/",
+      "Ember on IRC": "#emberjs",
+      "Default --no-ff on git repo:  Bad idea": "https://stackoverflow.com/questions/2500296/can-i-make-fast-forwarding-be-off-by-default-in-git",
+      "DICSS": "https://github.com/letsgetrandy/DICSS/pull/28"
+    }
   }
 }
